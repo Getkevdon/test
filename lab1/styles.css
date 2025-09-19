@@ -1,0 +1,27 @@
+head,body
+{
+    font-family: sans-serif;
+}
+body
+{
+    margin: 10%;
+}
+h1
+{
+    font-size: 110%;
+    font-style: bold;
+}
+p
+{
+    font-size: 90%;
+}
+li
+{
+    word-spacing: 3%;
+}
+footer
+{
+    text-align: center;
+    font-size: 90%;
+    color: red;
+}
